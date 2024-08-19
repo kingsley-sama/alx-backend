@@ -1,8 +1,8 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """This module defines the index_range class."""
 
 
-def index_range(page: int, page_size: int) -> tuple():
+def index_range(page: int, page_size: int) -> tuple:
     """
     function that takes two integer arguments page and page_size return a
     tuple of size two containing a start index and
